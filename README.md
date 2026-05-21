@@ -1,3 +1,6 @@
+![logo](https://github.com/Abhi956967/AI-Lead-Automation-System/blob/main/Screenshot%202026-05-20%20203521.png)
+
+
 # ⚡ SimplifIQ — AI Lead Automation System
 
 > A fully automated pipeline that takes a prospect's company details, enriches them via web scraping, generates a personalized audit PDF using Groq's LLaMA 3.3 70B, and emails it — all without human intervention.
